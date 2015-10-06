@@ -4,7 +4,7 @@
 #include <RBL_nRF8001.h>
 #include <Servo.h>
 
-#define ledPin 13
+#define ledPin 12
 #define fadePin 11
 #define potPin A5
 void setup() {
