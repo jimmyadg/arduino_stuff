@@ -1,4 +1,4 @@
-int ledPins[] = { 3, 5, 6, 9, 10, 11 };
+int ledPins[6] = {13, 12, 11, 10, 9, 8};
 int pinCount = 6;
 int ledFade[6];
 int i;

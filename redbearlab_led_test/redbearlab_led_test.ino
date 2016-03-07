@@ -1,7 +1,7 @@
 #include <SPI.h>
 #include <BLEPeripheral.h>
 
-#define LED_PIN 6
+#define LED_PIN 13
 #define BLE_REQ 9
 #define BLE_RDY 8
 #define BLE_RST UNUSED
