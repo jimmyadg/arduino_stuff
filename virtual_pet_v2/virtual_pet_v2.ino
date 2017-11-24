@@ -1,3 +1,4 @@
+
 #include "SPI.h"
 #include "TFT_22_ILI9225.h"
 #include <TFT.h> 
@@ -7,7 +8,7 @@
 #define TFT_CS  10  // SS
 #define TFT_SDI 11  // MOSI
 #define TFT_CLK 13  // SCK
-#define TFT_LED 0
+#define TFT_LED A0
 
 #define BUTTON_LED   6
 //#define speaker      5
